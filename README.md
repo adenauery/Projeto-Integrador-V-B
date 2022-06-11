@@ -65,4 +65,5 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 ### Ferramentas e Ambientes de Programação
 * [Ambientes](http://olaria.ucpel.edu.br/micropython/doku.php?id=ferramentas). Como ponto de partida utilizar o ambiente de desenvolvimento uPyCraft
 
-
+### Ambiente para Tratamento e Exibição dos Dados Coletados
+* [ThingsBoard com Docker](https://thingsboard.io/docs/user-guide/install/docker/)
