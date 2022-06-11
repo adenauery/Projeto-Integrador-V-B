@@ -53,7 +53,8 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * ESP32 - [Mercado Livre](https://produto.mercadolivre.com.br/MLB-2043197044-esp32-doit-devkit-com-esp32-wroom-32d-e-certif-anatel-_JM#position=3&search_layout=grid&type=item&tracking_id=031cba6d-d510-44da-b601-1b3eb2af0e35)
 * Observação sobre a pinagem da ESP3:
   * [Artigo que faz a discussão](https://blog.eletrogate.com/conhecendo-o-esp32-introducao-1/)
-  * “Os Boards mais comuns encontrados aqui no Brasil , usam os módulos ESP-WROOM-32. Existem dois modelos de placas de desenvolvimento ESP32 DevKit, uma placa com 30 pinos e a outra com 38 pinos. As diferenças não são tão importantes, já que na Placa de 30 pinos não tem disponíveis os pinos para interface com o SD card ( SD0, SD1, SD2, SD3, CMD e CLK) . Não é recomendável o uso desses pinos, já que são usados pela memória Flash do módulo ESP32 !”
+  * “Os Boards mais comuns encontrados aqui no Brasil , usam os módulos ESP-WROOM-32. Existem dois modelos de placas de desenvolvimento ESP32 DevKit, uma placa com 30 pinos e a outra com 38 pinos. As diferenças não são tão importantes, já que na Placa de 30 pinos não tem disponíveis os pinos para interface com o SD card ( SD0, SD1, SD2, SD3, CMD e CLK) . Não é recomendável o uso desses pinos, já que são usados pela memória Flash do módulo ESP32!”
+  * Como ponto de partida, começar a desenvolver utilizando um ESP32 DevKit de 30 pinos.
 
 ### Linguagem que será utilizada:
 * [MicroPython](http://olaria.ucpel.edu.br/micropython/)
