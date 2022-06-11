@@ -60,6 +60,6 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * [MicroPython](http://olaria.ucpel.edu.br/micropython/)
 
 ### Ferramentas e Ambientes de Programação
-* [Ambientes](http://olaria.ucpel.edu.br/micropython/doku.php?id=ferramentas)
+* [Ambientes](http://olaria.ucpel.edu.br/micropython/doku.php?id=ferramentas). Como ponto de partida utilizar o ambiente de desenvolvimento uPyCraft
 
 
