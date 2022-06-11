@@ -11,7 +11,9 @@ Neste **[link](https://docs.google.com/document/d/1gJrZ9nvX9VrMvw3FfVDizOWTzQQO4
 * Adenauer Yamin - adenauer.yamin at ucpel.edu.br
 * Victoria Souto - victoria.souto at ucpel.edu.br
 
-Apropriações Contextuais para Entrega Final
+### Entrega Final
+
+A Entrega Final poderá ser feita de forma individual ou em grupos de 2 integrantes. Abixo a equipe da disciplina:
 
 * BRUNO LEMKE DOS SANTOS
 * GUILHERME DE SOUZA DIAS
