@@ -28,13 +28,19 @@ A Entrega Final, a qual compreende 60% da nota final, consistirá na elaboraçã
 
 #### Tópicos Relevantes no Contexto das Aplicações das Redes Convergentes
 
-Definir VoIP (Voice over Internet Protocol).
-Descrever VoD (Video on Demand).
-Analisar as características do OTT (Over the Top) 
-Descrever as funções dos protocolos PPP, SLIP e LAPB.
-Analisar as funções dos protocolos L2TP e PPTP.
-arquitetura SIP
-arquiteturas H.323
-Definir os protocolos RTP e RTCP.
-Definir os protocolos MGCP e Megaco.
-Descrever o controle de gateway do protocolo MGCP.
+Cada grupo deverá selecionar dois tópicos para trablhar. Deverá ser gerado um texto entre 5 e 10 páginas, podem ser utilizadas figuras.
+
+* VoIP
+* VoD
+* OTT
+* PPP 
+* SLIP
+* LAPB.
+* L2TP
+* PPTP.
+* Arquitetura SIP
+* Arquiteturas H.323
+* RTP
+* RTCP.
+MGCP e Megaco.
+MGCP.
