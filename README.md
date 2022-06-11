@@ -13,7 +13,7 @@ Neste **[link](https://docs.google.com/document/d/1gJrZ9nvX9VrMvw3FfVDizOWTzQQO4
 
 ### Entrega Final
 
-A Entrega Final, a qual compreende 60% da nota final, consistirá na elaboração de um Relatório em PDF referente as apropriação conceitual feita. Cada grupo de alunos irá discorrer sobre um tópico relevante no contexto das aplicações de Redes Convergentes, tendo por base o cenário das infraestruturas de comunicação modernas, as quais consideram o emprego de Redes de Longa Distância. Juntamente com o Relatório Final deverá ser também disponibilizado um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. Mais especificamente, no Relatório Final deverá ser incluído o link para acesso ao vídeo desenvolvido pelo grupo. O Relatório Final deverá ser entregue empregando a Plataforma A.
+A Entrega Final, a qual compreende 60% da nota final, consistirá na elaboração de um Relatório em PDF referente a apropriação conceitual feita. Cada grupo de alunos irá discorrer sobre um tópico relevante no contexto das aplicações de Redes Convergentes, tendo por base o cenário das infraestruturas de comunicação modernas, as quais consideram o emprego de Redes de Longa Distância. Juntamente com o Relatório Final deverá ser também disponibilizado um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. Mais especificamente, no Relatório Final deverá ser incluído o link para acesso ao vídeo desenvolvido pelo grupo. O Relatório Final deverá ser entregue empregando a Plataforma A.
 
 #### Abixo a equipe da disciplina:
 
