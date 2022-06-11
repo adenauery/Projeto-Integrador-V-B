@@ -42,5 +42,6 @@ Cada grupo deverá selecionar dois tópicos para trablhar. Deverá ser gerado um
 * Arquiteturas H.323
 * RTP
 * RTCP.
-MGCP e Megaco.
-MGCP.
+* MGCP
+* Megaco
+* MGCP.
