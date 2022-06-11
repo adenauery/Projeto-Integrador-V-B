@@ -59,6 +59,9 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 ### Linguagem que será utilizada:
 * [MicroPython](http://olaria.ucpel.edu.br/micropython/)
 
+### Instalando MicroPython
+* [Instalando como uPyCraf](https://www.usinainfo.com.br/blog/micropython-esp32-parte-1/#:~:text=Instalando%20a%20IDE%20para%20trabalhar%20com%20Micropython%20ESP32&text=Primeiramente%2C%20acesse%20a%20p%C3%A1gina%20de,Caso%20haja%2C%20clique%20em%20atualizar)
+
 ### Ferramentas e Ambientes de Programação
 * [Ambientes](http://olaria.ucpel.edu.br/micropython/doku.php?id=ferramentas). Como ponto de partida utilizar o ambiente de desenvolvimento uPyCraft
 
