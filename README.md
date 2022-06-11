@@ -46,7 +46,7 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * Megaco
 * MGCP.
 
-## Atividade na Internet das Coisas
+## Programando Dispositivos na Internet das Coisas
 
 ### Embarcado que será utilizado:
 * ESP32 - [Visão Geral & IoT](http://esp32.net/)
