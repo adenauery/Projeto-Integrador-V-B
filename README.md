@@ -13,7 +13,9 @@ Neste **[link](https://docs.google.com/document/d/1gJrZ9nvX9VrMvw3FfVDizOWTzQQO4
 
 ### Entrega Final
 
-A Entrega Final poderá ser feita de forma individual ou em grupos de 2 integrantes. Abixo a equipe da disciplina:
+A Entrega Final, a qual compreende 60% da nota final, consistirá na elaboração de um Relatório em PDF referente as apropriação conceitual feita. Cada grupo de alunos irá discorrer sobre um tópico relevante no contexto das aplicações de Redes Convergentes, tendo por base o cenário das infraestruturas de comunicação modernas, as quais consideram o emprego de Redes de Longa Distância. Juntamente com o Relatório Final deverá ser também disponibilizado um vídeo que trate do apresentado tanto no Relatório Parcial, como no Final. Mais especificamente, no Relatório Final deverá ser incluído o link para acesso ao vídeo desenvolvido pelo grupo. O Relatório Final deverá ser entregue empregando a Plataforma A.
+
+#### Abixo a equipe da disciplina:
 
 * BRUNO LEMKE DOS SANTOS
 * GUILHERME DE SOUZA DIAS
@@ -23,3 +25,16 @@ A Entrega Final poderá ser feita de forma individual ou em grupos de 2 integran
 * PAULO ARMANDO DA SILVA ALVES
 * RODRIGO DOS SANTOS OLMOS
 * RODRIGO VALADÃO
+
+#### Tópicos Relevantes no Contexto das Aplicações das Redes Convergentes
+
+Definir VoIP (Voice over Internet Protocol).
+Descrever VoD (Video on Demand).
+Analisar as características do OTT (Over the Top) 
+Descrever as funções dos protocolos PPP, SLIP e LAPB.
+Analisar as funções dos protocolos L2TP e PPTP.
+arquitetura SIP
+arquiteturas H.323
+Definir os protocolos RTP e RTCP.
+Definir os protocolos MGCP e Megaco.
+Descrever o controle de gateway do protocolo MGCP.
