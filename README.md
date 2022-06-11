@@ -28,7 +28,7 @@ A Entrega Final, a qual compreende 60% da nota final, consistirá na elaboraçã
 
 #### Tópicos Relevantes no Contexto das Aplicações das Redes Convergentes
 
-Cada grupo deverá selecionar dois tópicos para trablhar. Deverá ser gerado um texto entre 5 e 10 páginas, podem ser utilizadas figuras.
+Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tópicos para trabalhar. Deverá ser gerado um texto entre 3 e 10 páginas, sendo estimulado o emprego de figuras.
 
 * VoIP
 * VoD
