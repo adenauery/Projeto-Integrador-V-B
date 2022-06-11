@@ -35,16 +35,16 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * OTT
 * PPP 
 * SLIP
-* LAPB.
+* LAPB
 * L2TP
-* PPTP.
+* PPTP
 * Arquitetura SIP
 * Arquiteturas H.323
 * RTP
-* RTCP.
+* RTCP
 * MGCP
 * Megaco
-* MGCP.
+* MGCP
 
 ## Programando Dispositivos na Internet das Coisas
 
