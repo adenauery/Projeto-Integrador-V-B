@@ -67,3 +67,6 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 
 ### Ambiente para Tratamento e Exibição dos Dados Coletados
 * [ThingsBoard com Docker](https://thingsboard.io/docs/user-guide/install/docker/)
+
+### Códigos Trabalhados em Aula Presencial
+* [pisca-led-onboard.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/pisca-led-onboard.py)
