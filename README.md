@@ -72,3 +72,4 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * [pisca-led-onboard.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/pisca-led-onboard.py)
 * [le-dois-sensores-one-wire](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/le-dois-sensores-one-wire.py)
 * [ConnectWiFi.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/ConnectWiFi.py)
+* [testa-ntp.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/testa-ntp.py)
