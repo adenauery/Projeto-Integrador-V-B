@@ -69,7 +69,7 @@ Cada grupo (que pode ser de 1 ou mais integrantes) deverá selecionar um dos tó
 * [ThingsBoard com Docker](https://thingsboard.io/docs/user-guide/install/docker/)
 
 ### Códigos Trabalhados em Aula Presencial
-* [pisca-led-onboard.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/pisca-led-onboard.py)
-* [le-dois-sensores-one-wire](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/le-dois-sensores-one-wire.py)
-* [ConnectWiFi.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/ConnectWiFi.py)
-* [testa-ntp.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/testa-ntp.py)
+* [pisca-led-onboard.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/pisca-led-onboard.py) - este código faz piscar o led que fica na placa de desenvolvimento
+* [le-dois-sensores-one-wire](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/le-dois-sensores-one-wire.py) - este código faz a leitura de dois sensores que utilizam o protocolo One-Wire
+* [ConnectWiFi.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/ConnectWiFi.py) - este código realiza a conexão com um roteador wi-fi
+* [testa-ntp.py](https://github.com/adenauery/Projeto-Integrador-V-B/blob/main/testa-ntp.py) - este código implementa o protocolo NTP (Network Time Protocol) para ajustar o relógio da ESP32
